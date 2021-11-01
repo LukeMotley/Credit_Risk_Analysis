@@ -3,9 +3,9 @@
 ## Overview:
 
 This project uses python and machine learning libraries to evaluate models that work with a credit card dataset that was given. We use the following models in our evalutation:
-Oversampling
-Undersampling
-Conbinational
+Oversampling - using RandomOverSampler and SMOTE algorithms
+Undersampling - using the ClusterCentroids algorithm
+Conbinational - using BalancedRandomForestClassifier and EasyEnsembleClassifier
 
 ## Results: Explain the purpose of this analysis.
 
